@@ -558,7 +558,7 @@ Este projeto demonstra expertise em:
 
 ## 👨‍💻 Autor
 
-**João Nascimento (Jo)**
+**Jonathan Nascimento (Jo)**
 
 - 🎓 Técnico em Equipamentos Biomédicos
 - 📚 Estudante de Engenharia de Dados
